@@ -4,7 +4,7 @@ This is the repository for the paper **Textual Supervision Enhances Geospatial R
 
 EvaluateAttacks.ipynb: contains the code for the embedding swapping results and evaluation
 
-ICLR_plots.ipynb and Results.ipynb: contains the code for generating the figures in the paper
+ICML_plots.ipynb and Results.ipynb: contains the code for generating the figures in the paper
 
 run_landscape.py: file responsible for running the landscape dataset analysis
 
