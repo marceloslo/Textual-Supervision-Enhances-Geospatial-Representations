@@ -1,4 +1,4 @@
-This is the repository for the paper **Textual Supervision Enhances Geospatial Representations in Vision-Language Models** to be published at ICML 2026.
+This is the repository for the paper [**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**](https://arxiv.org/abs/2606.07172) to be published at ICML 2026.
 
 # Instructions
 
